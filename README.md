@@ -1,7 +1,5 @@
 # ¡Hola! Soy Dario 👋
 
-![Banner](C:\Users\Dario Diaz\Downloads\image.png)
-
 ## 🚀 Sobre mí
 
 - 🎓 Actualmente estoy aprendiendo y mejorando mis habilidades ya que estoy cursando **Ingenieria en Sistemas de Informacion**.
