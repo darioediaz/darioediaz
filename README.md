@@ -1,6 +1,6 @@
 # ¡Hola! Soy Dario 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Tu+Banner+Personalizado)
+![Banner](C:\Users\Dario Diaz\Downloads\image.png)
 
 ## 🚀 Sobre mí
 
