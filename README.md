@@ -4,8 +4,8 @@
 
 ## 🚀 Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo y mejorando mis habilidades en ya que estoy cursando **Ingenieria en Sistemas de Informacion**.
-- 📫 Puedes contactarme en dariodiaz91498@gmail.com (mailto:dariodiaz91498@gmail.com).
+- 🌱 Actualmente estoy aprendiendo y mejorando mis habilidades ya que estoy cursando **Ingenieria en Sistemas de Informacion**.
+- 📫 Puedes contactarme en dariodiaz91498@gmail.com
 
 ## 🔧 Tecnologías y Herramientas
 
@@ -31,15 +31,13 @@ Descripción breve del proyecto 3. Explica qué tecnologías usaste y qué probl
 
 ## 📈 Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=darioediaz&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=darioediaz&layout=compact&theme=radical)
 
 ## 🔗 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
-[![Portfolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tuportafolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darioediaz/)
 
 ---
 
-⭐️ From [tuusuario](https://github.com/darioediaz)
+⭐️ From [darioediaz](https://github.com/darioediaz)
