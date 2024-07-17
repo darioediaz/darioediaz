@@ -41,16 +41,6 @@ Con el paso del tiempo y con los conocimientos que he ido obteniendo, adquiri la
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📝 Proyectos Destacados
-
-### [Proyecto 1](https://github.com/tuusuario/proyecto1)
-Descripción breve del proyecto 1. Explica qué tecnologías usaste y qué problema resolviste.
-
-### [Proyecto 2](https://github.com/tuusuario/proyecto2)
-Descripción breve del proyecto 2. Explica qué tecnologías usaste y qué problema resolviste.
-
-### [Proyecto 3](https://github.com/tuusuario/proyecto3)
-Descripción breve del proyecto 3. Explica qué tecnologías usaste y qué problema resolviste.
 
 ## 📈 Estadísticas de GitHub
 
