@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Actualmente estoy aprendiendo y mejorando mis habilidades ya que estoy cursando 3er año de **Ingenieria en Sistemas de Informacion**.
+- 🎓 Actualmente estoy aprendiendo y mejorando mis habilidades ya que estoy cursando **Ingenieria en Sistemas de Informacion**.
 - 📫 Puedes contactarme en dariodiaz91498@gmail.com
 
 ## 🧠 Habilidades Obtenidas
